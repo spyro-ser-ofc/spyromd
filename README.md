@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img border-radius: 15px src="https://i.imgur.com/mOzXNtv.jpeg" width="450" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/mOzXNtv.jpeg" width="650" height="200"/>
 
 <p align="center">
 
